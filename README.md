@@ -1,3 +1,3 @@
 # Animação em 3D
 
-![](gifanimacao.gif)
+![](animacao-gift.gif)
