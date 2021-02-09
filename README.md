@@ -1,3 +1,3 @@
 # Animação em 3D
 
-![](anim-3d.gif)
+![](Animated GIF-downsized.gif)
